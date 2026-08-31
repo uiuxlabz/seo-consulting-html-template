@@ -8,6 +8,10 @@ A premium, framework-free HTML template built for SEO consulting firms. Pure HTM
 
 ---
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## Live Demo
 
 [**View Live Site**](https://tally.so/r/q4q1L9)
